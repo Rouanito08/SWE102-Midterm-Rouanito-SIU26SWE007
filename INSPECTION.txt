@@ -1,0 +1,30 @@
+* 7ab11e4 (HEAD -> main, tag: v1.0, origin/main, feature) Add line 2
+* 395531b Initial commit
+
+
+tag v1.0
+Tagger: Rouanito2 <rouanitolontsi@gmail.com>
+Date:   Wed Nov 11 16:00:08 2026 +0100
+
+Add line 2
+
+commit 7ab11e44fe103b02a5ce315bc582148e14749af9 (HEAD -> main, tag: v1.0, origin/main, feature)
+Author: Rouanito2 <rouanitolontsi@gmail.com>
+Date:   Wed Nov 11 15:51:56 2026 +0100
+
+    Add line 2
+
+diff --git a/notes.txt b/notes.txt
+index 3be9c81..c82de6a 100644
+--- a/notes.txt
++++ b/notes.txt
+@@ -1 +1,2 @@
+ Line 1
++Line 2
+
+
+
+
+
+
+
